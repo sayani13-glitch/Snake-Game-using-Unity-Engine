@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ee3daa5b5f13baa428217503caac395a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tailprefab: {fileID: 3067134168191957414, guid: 433f9cfa988a6134db7d3fcfb44132d7,
+      type: 3}
+  - score: {fileID: 3482822834150888463, guid: b7babe1509bfaaa469bb7a777744ff48, type: 3}
+  - gameover: {fileID: 6604666806799118378, guid: 66af645772262f6498c78e63702e13f1,
+      type: 3}
+  - eat: {fileID: 8096994784523513928, guid: 0588a45ee687b99498e59d49f542e173, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

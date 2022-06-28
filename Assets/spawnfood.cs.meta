@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 681a57478dcbad842845d0907db60784
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - foodprefab: {fileID: 3720879956364319268, guid: 33e2466e2a016b741a792a52594ae0b2,
+      type: 3}
+  - foodspeed: {fileID: 2033089844266568977, guid: 32d491ee04eeefd43adf0f5fc9e06cc3,
+      type: 3}
+  - bordertop: {fileID: 3394936836008472018, guid: 5465ef4bbd3f4d74f93ecb8ba55c4827,
+      type: 3}
+  - borderbottom: {fileID: 1270123590142168142, guid: 6426d95138f0dab49b5f05894982fd33,
+      type: 3}
+  - borderleft: {fileID: 3065352230043156542, guid: b3731002387beb6498854bf904d4831b,
+      type: 3}
+  - borderright: {fileID: 2989990707965150049, guid: 213b14b015cc32f45ac54127cc64cdb5,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
